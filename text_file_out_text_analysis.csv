@@ -1,0 +1,596 @@
+Word,Frequency,LemmatizedWord,PartOfSpeech_NLTK,PartOfSpeech_Spacy
+teacher,76,teacher,Adverb,N O U N
+a,52,a,Determiner,D E T
+it,41,it,Pronoun,P R O N
+he,36,he,Pronoun,P R O N
+in,36,in,Preposition,A D V
+is,35,is,Verb,A U X
+was,34,wa,Verb,A U X
+me,28,me,Pronoun,P R O N
+do,25,do,Verb,A U X
+said,25,said,Verb,V E R B
+are,24,are,Verb,A U X
+father,22,father,Adjective,P R O P N
+boy,21,boy,Noun,N O U N
+sir,20,sir,Adjective,P R O P N
+school,20,school,Noun,P R O P N
+asked,20,asked,Verb,V E R B
+at,20,at,Preposition,A D P
+did,19,did,Verb,V E R B
+well,19,well,Adverb,A D V
+one,18,one,Cardinal Number,N U M
+pupil,17,pupil,Noun,N O U N
+why,17,why,Other,S C O N J
+know,16,know,Verb,A U X
+answered,16,answered,Verb,V E R B
+on,16,on,Preposition,A D P
+who,15,who,Other,P R O N
+all,15,all,Determiner,D E T
+mother,15,mother,Noun,N O U N
+but,14,but,Conjunction,C C O N J
+day,12,day,Noun,N O U N
+very,12,very,Adverb,A D V
+its,12,it,Pronoun,P R O N
+late,11,late,Adjective,A D J
+yes,11,yes,Noun,I N T J
+not,11,not,Adverb,P A R T
+oh,10,oh,Adverb,I N T J
+so,10,so,Adverb,A D V
+little,10,little,Adjective,A D J
+then,10,then,Adverb,A D V
+pupils,9,pupil,Noun,N O U N
+can,9,can,Other,A U X
+see,9,see,Verb,V E R B
+think,9,think,Verb,V E R B
+up,9,up,Adverb,A D P
+tell,9,tell,Noun,V E R B
+have,9,have,Verb,V E R B
+no,8,no,Determiner,D E T
+son,8,son,Noun,N O U N
+home,8,home,Noun,N O U N
+answer,8,answer,Noun,N O U N
+told,8,told,Verb,V E R B
+now,8,now,Adverb,A D V
+two,8,two,Cardinal Number,N U M
+four,7,four,Cardinal Number,N U M
+again,7,again,Adverb,A D V
+be,7,be,Verb,A U X
+about,7,about,Preposition,A D P
+keep,7,keep,Adjective,V E R B
+history,7,history,Noun,N O U N
+after,7,after,Preposition,A D P
+other,7,other,Adjective,A D J
+were,7,were,Verb,A U X
+name,6,name,Adjective,N O U N
+please,6,please,Adjective,I N T J
+time,6,time,Noun,N O U N
+came,6,came,Verb,V E R B
+like,6,like,Preposition,A D P
+before,6,before,Preposition,A D P
+question,6,question,Noun,N O U N
+had,6,had,Verb,A U X
+mommy,6,mommy,Noun,N O U N
+say,6,say,Verb,V E R B
+last,6,last,Adjective,A D J
+get,6,get,Verb,V E R B
+pet,6,pet,Adjective,N O U N
+out,6,out,Adverb,A D P
+doing,5,doing,Verb,V E R B
+help,5,help,Noun,N O U N
+class,5,class,Noun,N O U N
+cant,5,cant,Noun,A U X
+always,5,always,Adverb,P A R T
+good,5,good,Adjective,A D V
+thought,5,thought,Verb,A D J
+many,5,many,Adjective,V E R B
+robot,5,robot,Adverb,A D J
+more,5,more,Adverb,N O U N
+come,5,come,Adjective,A D V
+just,5,just,Adverb,V E R B
+eight,5,eight,Cardinal Number,A D V
+today,5,today,Noun,N U M
+learn,5,learn,Verb,N O U N
+nothing,5,nothing,Noun,V E R B
+lessons,5,lesson,Noun,P R O N
+sun,5,sun,Verb,N O U N
+or,5,or,Conjunction,N O U N
+moon,5,moon,Verb,C C O N J
+ready,5,ready,Adjective,N O U N
+as,5,a,Preposition,A D J
+coat,5,coat,Noun,A D P
+five,4,five,Cardinal Number,N O U N
+word,4,word,Noun,N U M
+first,4,first,Adverb,N O U N
+boys,4,boy,Verb,A D J
+sorry,4,sorry,Adjective,N O U N
+charges,4,charge,Noun,V E R B
+any,4,any,Determiner,N O U N
+got,4,got,Verb,D E T
+only,4,only,Adverb,V E R B
+does,4,doe,Verb,A D V
+write,4,write,Verb,A U X
+reading,4,reading,Verb,V E R B
+night,4,night,Noun,N O U N
+surprise,4,surprise,Noun,N O U N
+person,4,person,Noun,N O U N
+spell,4,spell,Verb,N O U N
+great,4,great,Adjective,V E R B
+course,4,course,Noun,A D J
+new,4,new,Adjective,N O U N
+writing,4,writing,Verb,A D J
+aunt,4,aunt,Noun,N O U N
+ii,4,ii,Noun,P R O P N
+i,4,i,Noun,P R O P N
+parts,4,part,Noun,P R O P N
+wont,3,wont,Verb,N O U N
+sure,3,sure,Adjective,A U X
+by,3,by,Preposition,P A R T
+bad,3,bad,Adjective,A D J
+go,3,go,Verb,A D P
+angrily,3,angrily,Adverb,A D J
+has,3,ha,Verb,N O U N
+composition,3,composition,Noun,A D V
+us,3,u,Pronoun,V E R B
+right,3,right,Adjective,N O U N
+man,3,man,Noun,P R O N
+began,3,began,Verb,A D J
+call,3,call,Adjective,N O U N
+back,3,back,Adverb,V E R B
+trying,3,trying,Verb,V E R B
+book,3,book,Noun,A D V
+ma,3,ma,Verb,V E R B
+too,3,too,Adverb,N O U N
+letter,3,letter,Noun,P R O P N
+grandfather,3,grandfather,Noun,A D V
+teachers,3,teacher,Noun,N O U N
+important,3,important,Adjective,N O U N
+some,3,some,Determiner,N O U N
+here,3,here,Adverb,A D J
+pa,3,pa,Adjective,P R O N
+must,3,must,Other,A D V
+stay,3,stay,Verb,P R O P N
+explain,3,explain,Adverb,A U X
+arithmetic,3,arithmetic,Adjective,V E R B
+find,3,find,Verb,V E R B
+give,3,give,Verb,A D J
+an,3,an,Determiner,N O U N
+made,3,made,Verb,V E R B
+oxygen,3,oxygen,Noun,D E T
+schoolboy,3,schoolboy,Noun,V E R B
+blind,3,blind,Preposition,N O U N
+promise,3,promise,Noun,N O U N
+listening,2,listening,Verb,A D J
+happen,2,happen,Adjective,N O U N
+age,2,age,Noun,V E R B
+morning,2,morning,Noun,N O U N
+sign,2,sign,Noun,N O U N
+homework,2,homework,Noun,N O U N
+helped,2,helped,Verb,N O U N
+busy,2,busy,Adjective,N O U N
+dicks,2,dick,Noun,V E R B
+same,2,same,Adjective,A D J
+went,2,went,Verb,N O U N
+questions,2,question,Noun,A D J
+friends,2,friend,Noun,V E R B
+already,2,already,Adverb,N O U N
+long,2,long,Adverb,N O U N
+river,2,river,Adverb,A D V
+three,2,three,Cardinal Number,A D J
+asks,2,asks,Noun,N O U N
+answers,2,answer,Noun,N U M
+blackboard,2,blackboard,Adverb,V E R B
+afraid,2,afraid,Verb,N O U N
+returned,2,returned,Verb,A D P
+proudly,2,proudly,Adverb,A D J
+elephant,2,elephant,Adjective,V E R B
+such,2,such,Adjective,A D V
+animal,2,animal,Noun,N O U N
+lost,2,lost,Verb,A D J
+things,2,thing,Noun,N O U N
+born,2,born,Verb,V E R B
+going,2,going,Verb,N O U N
+mind,2,mind,Preposition,V E R B
+family,2,family,Noun,V E R B
+jolly,2,jolly,Adverb,N O U N
+teeth,2,teeth,Verb,N O U N
+winter,2,winter,Noun,P R O P N
+children,2,child,Noun,N O U N
+small,2,small,Adjective,N O U N
+daddy,2,daddy,Verb,N O U N
+never,2,never,Adverb,A D J
+goes,2,go,Verb,N O U N
+built,2,built,Verb,A D V
+ale,2,ale,Adjective,V E R B
+ago,2,ago,Adverb,V E R B
+shines,2,shine,Noun,N O U N
+while,2,while,Preposition,A D V
+wants,2,want,Verb,V E R B
+thinking,2,thinking,Verb,S C O N J
+possible,2,possible,Adjective,V E R B
+single,2,single,Adjective,V E R B
+mistakes,2,mistake,Noun,A D J
+use,2,use,Verb,A D J
+another,2,another,Determiner,N O U N
+century,2,century,Noun,V E R B
+says,2,say,Verb,D E T
+certainly,2,certainly,Adverb,N O U N
+live,2,live,Verb,V E R B
+happy,2,happy,Adjective,A D V
+year,2,year,Noun,V E R B
+ill,2,ill,Noun,A D J
+ones,2,one,Noun,N O U N
+angry,2,angry,Adjective,A D J
+understand,2,understand,Adverb,N O U N
+simple,2,simple,Adjective,A D J
+sum,2,sum,Adjective,V E R B
+let,2,let,Verb,A D J
+each,2,each,Determiner,N O U N
+cholera,2,cholera,Noun,V E R B
+work,2,work,Noun,D E T
+happily,2,happily,Adverb,N O U N
+wrote,2,wrote,Verb,N O U N
+friend,2,friend,Adjective,A D V
+brothers,2,brother,Noun,V E R B
+decided,2,decided,Verb,N O U N
+indeed,2,indeed,Adverb,N O U N
+earth,2,earth,Adjective,V E R B
+thank,2,thank,Verb,A D V
+much,2,much,Adjective,N O U N
+start,2,start,Verb,V E R B
+early,2,early,Adjective,A D J
+waiting,2,waiting,Verb,V E R B
+lesson,2,lesson,Adjective,A D V
+battle,2,battle,Noun,V E R B
+fingers,2,finger,Noun,N O U N
+bobble,2,bobble,Adjective,N O U N
+expert,2,expert,Adjective,N O U N
+polite,2,polite,Adjective,N O U N
+apologetically,2,apologetically,Adverb,N O U N
+woman,2,woman,Noun,A D J
+wish,2,wish,Adjective,P R O P N
+anxious,2,anxious,Adjective,N O U N
+pay,2,pay,Noun,V E R B
+attention,2,attention,Noun,A D J
+wool,2,wool,Noun,N O U N
+count,2,count,Noun,N O U N
+divide,2,divide,Noun,N O U N
+potato,2,potato,Noun,N O U N
+prefer,2,prefer,Verb,N O U N
+fraction,2,fraction,Noun,N O U N
+crying,2,cry,Noun,V E R B
+disappointed,2,disappointed,Adjective,N O U N
+marks,2,mark,Noun,V E R B
+blame,2,blame,Verb,A D J
+discovered,2,discovered,Verb,N O U N
+dear,2,dear,Adjective,V E R B
+uncle,2,uncle,Noun,V E R B
+fellows,2,fellow,Verb,A D J
+spite,2,spite,Adjective,N O U N
+being,2,being,Verb,N O U N
+affliction,2,affliction,Noun,V E R B
+owe,2,owe,Other,A U X
+fireplace,2,fireplace,Noun,N O U N
+unison,2,unison,Adjective,V E R B
+quite,2,quite,Adverb,N O U N
+learning,1,learning,Verb,P R O P N
+wild,1,wild,Adjective,A D V
+animals,1,animal,Noun,V E R B
+lion,1,lion,Noun,A D J
+cubs,1,cub,Verb,N O U N
+wash,1,wash,Noun,N O U N
+neck,1,neck,Noun,N O U N
+ears,1,ear,Verb,V E R B
+names,1,name,Adverb,N O U N
+sums,1,sum,Adjective,N O U N
+best,1,best,Adjective,N O U N
+dad,1,dad,Noun,V E R B
+president,1,president,Noun,A D J
+every,1,every,Determiner,N O U N
+slow,1,slow,Noun,N O U N
+done,1,done,Verb,D E T
+also,1,also,Adverb,N O U N
+minute,1,minute,Adjective,V E R B
+clever,1,clever,Noun,A D V
+lady,1,lady,Noun,V E R B
+walking,1,walking,Verb,A D J
+slowly,1,slowly,Adverb,N O U N
+along,1,along,Adverb,V E R B
+street,1,street,Noun,A D V
+called,1,called,Verb,A D P
+half,1,half,Noun,N O U N
+past,1,past,Adjective,V E R B
+nine,1,nine,Cardinal Number,A D V
+carelessly,1,carelessly,Adverb,A D P
+open,1,open,Adjective,N U M
+tells,1,tell,Noun,A D V
+swims,1,swim,Verb,A D J
+across,1,across,Preposition,N O U N
+times,1,time,Noun,N O U N
+breakfast,1,breakfast,Adverb,A D P
+laughs,1,laugh,Verb,P R O P N
+swimmer,1,swimmer,Adjective,N O U N
+gets,1,get,Verb,V E R B
+clothes,1,clothes,Noun,P R O P N
+cross,1,cross,Noun,V E R B
+once,1,once,Adverb,N O U N
+matter,1,matter,Adverb,N O U N
+entered,1,entered,Verb,A D V
+wanted,1,wanted,Verb,A D V
+surname,1,surname,Noun,V E R B
+announced,1,announced,Verb,V E R B
+spoken,1,spoken,Adjective,N O U N
+quiet,1,quiet,Adjective,V E R B
+giving,1,giving,Verb,V E R B
+test,1,test,Noun,A D J
+natural,1,natural,Adjective,V E R B
+found,1,found,Verb,N O U N
+large,1,large,Adjective,A D J
+hardly,1,hardly,Adverb,V E R B
+ever,1,ever,Adverb,A D J
+neighbor,1,neighbor,Adjective,A D V
+examination,1,examination,Noun,A D V
+fault,1,fault,Noun,N O U N
+happened,1,happened,Verb,N O U N
+mum,1,mum,Adjective,N O U N
+money,1,money,Noun,V E R B
+six,1,six,Cardinal Number,N O U N
+seven,1,seven,Cardinal Number,N O U N
+m,1,m,Noun,N U M
+makes,1,make,Verb,N U M
+been,1,been,Verb,A D J
+darling,1,darling,Verb,N O U N
+sighed,1,sighed,Verb,A U X
+hopelessly,1,hopelessly,Adverb,V E R B
+tomorrow,1,tomorrow,Noun,V E R B
+contain,1,contain,Noun,A D V
+milk,1,milk,Noun,N O U N
+butter,1,butter,Noun,V E R B
+cheese,1,cheese,Adjective,N O U N
+icecream,1,icecream,Noun,N O U N
+cows,1,cow,Noun,N O U N
+false,1,false,Adjective,N O U N
+bear,1,bear,Preposition,V E R B
+hibernating,1,hibernating,Verb,A D J
+explaining,1,explaining,Verb,N O U N
+hibernates,1,hibernates,Noun,N O U N
+hand,1,hand,Noun,V E R B
+may,1,may,Other,N O U N
+summer,1,summer,Noun,N O U N
+geography,1,geography,Noun,A U X
+teach,1,teach,Noun,N O U N
+points,1,point,Noun,N O U N
+compass,1,compass,Noun,V E R B
+explained,1,explained,Verb,N O U N
+left,1,left,Verb,N O U N
+front,1,front,Adjective,V E R B
+behind,1,behind,Preposition,V E R B
+moment,1,moment,Noun,N O U N
+patch,1,patch,Noun,A D P
+trousers,1,trouser,Noun,N O U N
+eyes,1,eye,Verb,V E R B
+closed,1,closed,Verb,N O U N
+will,1,will,Other,N O U N
+report,1,report,Verb,V E R B
+interesting,1,interesting,Verb,A U X
+arc,1,arc,Adjective,V E R B
+schoolgirls,1,schoolgirl,Noun,A D J
+girl,1,girl,Noun,P R O P N
+showed,1,showed,Verb,P R O P N
+daybook,1,daybook,Adjective,N O U N
+shorter,1,shorter,Noun,V E R B
+nice,1,nice,Adjective,N O U N
+broke,1,broke,Verb,A D J
+window,1,window,Adjective,A D J
+classroom,1,classroom,Noun,A D J
+dark,1,dark,Noun,N O U N
+daytime,1,daytime,Noun,N O U N
+nobody,1,nobody,Adjective,P R O P N
+month,1,month,Noun,N O U N
+days,1,day,Noun,P R O N
+looking,1,looking,Verb,N O U N
+over,1,over,Preposition,N O U N
+teddys,1,teddy,Adjective,V E R B
+make,1,make,Verb,A D P
+synonym,1,synonym,Adjective,P R O P N
+place,1,place,Noun,V E R B
+papa,1,papa,Noun,N O U N
+language,1,language,Noun,N O U N
+uses,1,us,Verb,V E R B
+most,1,most,Adjective,N O U N
+chemists,1,chemist,Noun,V E R B
+dead,1,dead,Adjective,A D J
+story,1,story,Noun,N O U N
+original,1,original,Adjective,A D J
+heavens,1,heaven,Noun,N O U N
+meet,1,meet,Verb,A D J
+killing,1,killing,Verb,N O U N
+books,1,book,Noun,V E R B
+next,1,next,Preposition,V E R B
+fifth,1,fifth,Adjective,N O U N
+form,1,form,Noun,A D P
+exercises,1,exercise,Verb,A D J
+better,1,better,Adverb,N O U N
+mummy,1,mummy,Noun,N O U N
+together,1,together,Adverb,A D V
+apples,1,apple,Verb,P R O P N
+pears,1,pear,Noun,A D V
+talked,1,talked,Verb,V E R B
+ask,1,ask,Adjective,N O U N
+laziest,1,laziest,Adjective,V E R B
+girls,1,girl,Noun,V E R B
+sits,1,sits,Verb,A D J
+watches,1,watch,Noun,N O U N
+people,1,people,Noun,V E R B
+lose,1,lose,Verb,V E R B
+literature,1,literature,Adjective,N O U N
+talks,1,talk,Noun,V E R B
+realize,1,realize,Verb,N O U N
+thinks,1,think,Noun,N O U N
+invited,1,invited,Verb,V E R B
+spend,1,spend,Adjective,V E R B
+holiday,1,holiday,Adjective,V E R B
+country,1,country,Noun,V E R B
+glad,1,glad,Noun,N O U N
+house,1,house,Noun,N O U N
+both,1,both,Determiner,A D J
+soon,1,soon,Adverb,P R O P N
+arrived,1,arrived,Verb,P R O N
+brother,1,brother,Noun,A D V
+tossed,1,tossed,Verb,V E R B
+winner,1,winner,Adjective,N O U N
+toss,1,toss,Preposition,P R O P N
+nearer,1,nearer,Adjective,P R O P N
+round,1,round,Noun,V E R B
+theres,1,there,Verb,P R O P N
+break,1,break,Verb,N O U N
+earlier,1,earlier,Adverb,P R O N
+sister,1,sister,Adjective,A U X
+shopping,1,shopping,Verb,N O U N
+overslept,1,overslept,Adjective,A D J
+sleep,1,sleep,Adjective,N O U N
+onion,1,onion,Noun,V E R B
+gave,1,gave,Verb,A D V
+following,1,following,Verb,N O U N
+imagine,1,imagine,Noun,N O U N
+managers,1,manager,Noun,V E R B
+big,1,big,Adjective,V E R B
+factories,1,factory,Noun,N O U N
+working,1,working,Verb,N O U N
+started,1,started,Verb,A D J
+except,1,except,Preposition,N O U N
+secretary,1,secretary,Noun,V E R B
+manager,1,manager,Noun,V E R B
+battles,1,battle,Verb,S C O N J
+general,1,general,Adjective,P R O P N
+cry,1,cry,Noun,N O U N
+won,1,won,Verb,V E R B
+abstract,1,abstract,Adjective,A D J
+noun,1,noun,Adjective,N O U N
+margarita,1,margarita,Noun,V E R B
+touch,1,touch,Adjective,A D J
+example,1,example,Noun,P R O P N
+boiling,1,boiling,Verb,P R O P N
+water,1,water,Noun,V E R B
+boil,1,boil,Noun,N O U N
+ten,1,ten,Preposition,V E R B
+missing,1,missing,Verb,N O U N
+music,1,music,Noun,V E R B
+fellow,1,fellow,Noun,N U M
+speaking,1,speaking,Verb,V E R B
+plait,1,plait,Adjective,N O U N
+old,1,old,Adjective,N O U N
+lazy,1,lazy,Noun,V E R B
+reply,1,reply,Noun,P R O P N
+sheep,1,sheep,Adjective,A D J
+fathers,1,father,Noun,A D J
+listen,1,listen,Verb,N O U N
+try,1,try,Verb,N O U N
+correctly,1,correctly,Adverb,N O U N
+salad,1,salad,Adjective,V E R B
+cigarette,1,cigarette,Noun,A U X
+smoke,1,smoke,Verb,A D V
+lemon,1,lemon,Adjective,V E R B
+inquired,1,inquired,Verb,N O U N
+though,1,though,Preposition,N O U N
+sounded,1,sounded,Adjective,N O U N
+larger,1,larger,Adjective,V E R B
+really,1,really,Adverb,A D V
+smaller,1,smaller,Adjective,V E R B
+lemons,1,lemon,Noun,A D J
+coming,1,coming,Verb,A D V
+bitterly,1,bitterly,Adverb,A D J
+tea,1,tea,Adjective,N O U N
+kept,1,kept,Verb,V E R B
+spent,1,spent,Adjective,A D V
+aunts,1,aunt,Noun,N O U N
+replied,1,replied,Verb,V E R B
+case,1,case,Noun,V E R B
+there,1,there,Adverb,N O U N
+words,1,word,Noun,V E R B
+dish,1,dish,Adjective,N O U N
+point,1,point,Noun,P R O N
+d,1,d,Noun,V E R B
+gives,1,give,Verb,P R O P N
+necessary,1,necessary,Adjective,N O U N
+life,1,life,Noun,P R O P N
+vacation,1,vacation,Noun,V E R B
+sat,1,sat,Verb,A D J
+down,1,down,Adverb,N O U N
+bit,1,bit,Adverb,N O U N
+continued,1,continued,Adjective,V E R B
+deal,1,deal,Noun,A D P
+added,1,added,Verb,N O U N
+stop,1,stop,Noun,A D J
+truly,1,truly,Adverb,N O U N
+admiral,1,admiral,Adjective,V E R B
+win,1,win,Adjective,V E R B
+victory,1,victory,Noun,A D V
+page,1,page,Noun,A D J
+gained,1,gained,Verb,N O U N
+prizes,1,prize,Noun,N O U N
+gain,1,gain,Verb,N O U N
+prize,1,prize,Adjective,V E R B
+schoolmaster,1,schoolmaster,Noun,N O U N
+keeps,1,keep,Noun,V E R B
+young,1,young,Adjective,N O U N
+library,1,library,Adjective,N O U N
+comes,1,come,Verb,V E R B
+finds,1,find,Noun,A D J
+happens,1,happens,Verb,N O U N
+dictionary,1,dictionary,Adjective,A U X
+smiling,1,smiling,Verb,V E R B
+stories,1,story,Noun,V E R B
+fine,1,fine,Adjective,A D J
+master,1,master,Noun,V E R B
+short,1,short,Adjective,N O U N
+addressing,1,addressing,Verb,A D J
+take,1,take,Verb,N O U N
+poor,1,poor,Adjective,A D J
+hes,1,he,Noun,N O U N
+knew,1,knew,Verb,V E R B
+sudden,1,sudden,Adjective,A D J
+recently,1,recently,Adverb,P R O N
+overtaken,1,overtaken,Verb,A U X
+twice,1,twice,Adverb,V E R B
+hat,1,hat,Other,A D V
+office,1,office,Noun,A D V
+head,1,head,Noun,V E R B
+mention,1,mention,Noun,A D J
+trifle,1,trifle,Adverb,N O U N
+stood,1,stood,Verb,N O U N
+advice,1,advice,Noun,N O U N
+starting,1,starting,Verb,N O U N
+speak,1,speak,Adjective,N O U N
+fifty,1,fifty,Adjective,V E R B
+lips,1,lip,Noun,N O U N
+move,1,move,Verb,V E R B
+suddenly,1,suddenly,Adverb,N O U N
+burst,1,burst,Adverb,N U M
+chorus,1,chorus,Noun,N O U N
+hundred,1,hundred,Verb,N O U N
+tails,1,tail,Noun,A D V
+fire,1,fire,Noun,V E R B
+u,1,u,Adjective,N O U N
+shirt,1,shirt,Noun,N U M
+mine,1,mine,Noun,N O U N
+chair,1,chair,Noun,V E R B
+washed,1,washed,Verb,P R O P N
+whole,1,whole,Adjective,P R O P N
+inland,1,inland,Noun,P R O P N
+cuffs,1,cuff,Noun,P R O P N
+cuff,1,cuff,Verb,V E R B
+satisfied,1,satisfied,Adjective,A D J
+shut,1,shut,Noun,A D J
+enough,1,enough,Adjective,N O U N
+allow,1,allow,Noun,P R O P N
+playground,1,playground,Noun,P R O P N
+hours,1,hour,Noun,V E R B
+straight,1,straight,Verb,A D V
+forgot,1,forgot,Adjective,V E R B
+dirty,1,dirty,Noun,A D J
+tired,1,tired,Verb,N O U N
+look,1,look,Noun,A D J
+play,1,play,Noun,V E R B
+games,1,game,Noun,A D J
+punish,1,punish,Adjective,A D J
+stayed,1,stayed,Verb,N O U N
